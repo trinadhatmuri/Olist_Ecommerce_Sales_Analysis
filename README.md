@@ -11,4 +11,13 @@ The project aims to project an in-depth analysis of sales and operational perfor
 
 The dataset used is the Olist E-commerce public dataset that contains both transactional and logistical data from a multi-category online marketplace in Brazil. It contains orders, payment, shipping, product and review information giving us end-to-end visibility of how an e-commerce transaction lifecycle.
 
-This project integrates cloud based data storage (AWS S3), scalable querying (Snowflake), and visualization (PowerBI) to build and end-to-end analytics pipeline. The final outcome is a dynamic business dashboard that supports data-driven decisions across sales, operations, and customer experience.
+This project showcases end-to-end data engineering and analytics skills:
+<ul>
+  <li>Raw data ingestion using AWS S3</li>
+  <li>ETL and transformation using snowflake</li>
+  <li>Data Analysis with SQL</li>
+  <li>Data visualization using powerBI</li>
+</ul>
+
+This project simulates a real-world business solution that can be used by stakeholders to monitor key business KPIs and identify improvements across operations, logistics and sales strategy.
+
