@@ -28,3 +28,5 @@ The dataset used can be downloaded <a href="https://www.kaggle.com/datasets/olis
 # Data Structure Overview
 ![datastructure](https://github.com/user-attachments/assets/c1701bea-9755-4a96-95b5-79a435bb6285)
 
+# Executive Summary
+The analysis reveals consistent revenue growth over time, driven by increase in demand with our high performing product categories such as bed_bath_table, health_beauty, computer_accessories. Despite the positive trend, shipping delays are noticeable across most of the regions, affecting the overall delivery performance. The customer review scores remain at a decent mark, indicating the customers are moderately satisfied. These insights highlight the immediate action to be taken to optimize logistics, while strategically planning future category expansions and market penetration efforts.
