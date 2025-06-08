@@ -25,3 +25,6 @@ The powerBI dashboard can be found here.
 
 The dataset used can be downloaded <a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce">here</a>
 
+#Data Structure Overview
+![datastructure](https://github.com/user-attachments/assets/c1701bea-9755-4a96-95b5-79a435bb6285)
+
