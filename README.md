@@ -60,3 +60,13 @@ If we take a look at the delivery delay for our top 10 categories by the number 
 
 <img width="1015" alt="AVG delay by category" src="https://github.com/user-attachments/assets/342437fa-bce7-402b-a226-ae4eeef77089" />
 
+# Recommendations
+
+1. With average shipping delays ranging from 9.6 days to 13.1 days among the top-performing sellers, delivery performance is a clear bottleneck in customer experience.
+   - Partnership with regional logistic providers to reduce the last-mile delivery delays.
+   - Establish micro-fulfillment centers in regions with higher order volumes to reduce dispatch time and reducing overall delivery duration.
+   - Introduce seller ranking by fulfillment efficiency. Offer incentives for consistent on-time deliveries and penalizing delays.
+  
+2. Promote cross-selling by recommending the top selling products alongside similar categories, which can uplift underperforming segments and increase overall cart value.
+3. A pricing and listing analysis need to be conducted for the Electronics category ensuring alignment with market expectations. Consider running seasonal flash sales focused on Electronics to increase the sales.
+4. With a rapid increase in revenue, inventory planning needs a structural forecast model, ensuring accurate predictions of seasonal spikes. Additionally colloborate with suppliers to balance inventory levels and avoid overstocking or stockouts.
