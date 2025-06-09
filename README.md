@@ -37,5 +37,5 @@ The analysis reveals consistent revenue growth over time, driven by increase in 
 
 The overall revenue trend shows a consistent month-over-month growth, indicating increasing customer demand and order volumes. The revenue rose from R$7.2M in the year 2017 to an estimated revenue of R$10.4M in year 2018, representing a 44% year-over-year growth.
 
-As we see the monthly revenue in the below query result, it is safe to say that there has been a rapid increase in revenue in the year 2017, going from just over R$100k in the first month of the year to our first R$1M+ in sales on the holiday month of November the same year. Looking at 2018, the sales have been consistently over R$1M except for the month of February at R$878k, which is not too far away from the R$1M mark. 
+As we see the monthly revenue in the below query result, it is safe to say that there has been a rapid increase in revenue in the year 2017, going from just over R$100k in the first month of the year to our first R$1M+ in sales on the holiday month of November the same year. Looking at 2018, the sales have been consistently over R$1M except for the month of February at R$992k, which is not too far away from the R$1M mark. 
 <img width="977" alt="Monthly revenue" src="https://github.com/user-attachments/assets/794fca5e-16f8-4719-a2e5-c78cbb7bf070" />
