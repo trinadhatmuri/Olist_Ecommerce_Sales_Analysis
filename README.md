@@ -21,7 +21,7 @@ This project showcases end-to-end data engineering and analytics skills:
 
 This project simulates a real-world business solution that can be used by stakeholders to monitor key business KPIs and identify improvements across operations, logistics and sales strategy.
 
-The powerBI dashboard can be found here.
+The powerBI dashboard can be found <a href="https://app.powerbi.com/groups/me/reports/39235113-086b-4964-ad81-1241c90041f5/035b67f96670cf83bc11?experience=power-bi">here</a>.
 
 The dataset used can be downloaded <a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce">here</a>
 
@@ -30,6 +30,9 @@ The dataset used can be downloaded <a href="https://www.kaggle.com/datasets/olis
 
 # Executive Summary
 The analysis reveals consistent revenue growth over time, driven by increase in demand with our high performing product categories such as bed_bath_table, health_beauty, computer_accessories. Despite the positive trend, shipping delays are noticeable across most of the regions, affecting the overall delivery performance. The customer review scores remain at a decent mark, indicating the customers are moderately satisfied. These insights highlight the immediate action to be taken to optimize logistics, while strategically planning future category expansions and market penetration efforts.
+
+<img width="1424" alt="Olist powerBI dashboard" src="https://github.com/user-attachments/assets/eabdce73-809e-423c-bef0-0522d2adbf4a" />
+
 
 # Insights Deep Dive
 
