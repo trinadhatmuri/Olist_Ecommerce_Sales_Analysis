@@ -41,3 +41,11 @@ As we see the monthly revenue in the below query result, it is safe to say that 
 
 The year 2018 did not see a great month-over-month increase in revenue as the year 2017 did, but it clocked sales of over R$1M+ consistently.
 <img width="977" alt="Monthly revenue" src="https://github.com/user-attachments/assets/794fca5e-16f8-4719-a2e5-c78cbb7bf070" />
+
+### Product Categories Performance:
+
+There are a few categories that stand out when we look at the category wise sales. The top 3 categories in terms of sales are bed_bath_table, health_beauty, computer_accessories each having overall sales of over R$1.5M+ per category. This indicates strong and stable interest of customers which is often ties to repeatable purchases.
+<br>
+<img width="1015" alt="Top 10 categories by Sales" src="https://github.com/user-attachments/assets/894960dc-5d11-46f3-9f18-c2af78dab788" />
+
+
