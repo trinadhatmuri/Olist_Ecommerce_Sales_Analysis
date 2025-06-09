@@ -48,4 +48,4 @@ There are a few categories that stand out when we look at the category wise sale
 <br>
 <img width="1015" alt="Top 10 categories by Sales" src="https://github.com/user-attachments/assets/894960dc-5d11-46f3-9f18-c2af78dab788" />
 
-
+Electronics is often among the top-performing categories in terms of revenue on many major e-commerce platforms, While in Olist categories such as Computers, Electronics, Small Appliances, home_appliances which combinedly come under Electronics does not even have overall sales of R$1M dollars. 
