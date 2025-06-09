@@ -49,3 +49,14 @@ There are a few categories that stand out when we look at the category wise sale
 <img width="1015" alt="Top 10 categories by Sales" src="https://github.com/user-attachments/assets/894960dc-5d11-46f3-9f18-c2af78dab788" />
 
 Electronics is often among the top-performing categories in terms of revenue on many major e-commerce platforms, While in Olist categories such as Computers, Electronics, Small Appliances, home_appliances which combinedly come under Electronics does not even have overall sales of R$1M dollars. 
+
+### Shipping Delays
+
+There have been extreme delay in delivery of orders among the sellers. If we look at the sellers that have delivered over 1000 order, the minimum average delay is atleast 9.6 days and maxing out at 13.1 days at the maximum. 
+
+<img width="1015" alt="AVG delays by seller" src="https://github.com/user-attachments/assets/2c676d4a-1127-49d2-8088-66bfa7cc4060" />
+
+If we take a look at the delivery delay for our top 10 categories by the number of orders, we can see that there is a consistent 11-12 day delay in delivery beyond the estimated date of delivery.
+
+<img width="1015" alt="AVG delay by category" src="https://github.com/user-attachments/assets/342437fa-bce7-402b-a226-ae4eeef77089" />
+
